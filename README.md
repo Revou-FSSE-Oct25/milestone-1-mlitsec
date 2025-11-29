@@ -2,7 +2,7 @@
 # RevoU student Portofolio
 https://revou-fsse-oct25.github.io/milestone-1-mlitsec/
 
-# Personal Portfolio Website
+# Personal Portfolio Website.
 Hi there!
 This is my personal portfolio website a simple project I built to introduce myself and share my journey as I learn web development.  
 It’s part of my learning milestone at RevoU, and also my first step in building an online presence as a developer.
